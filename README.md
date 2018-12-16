@@ -1,6 +1,6 @@
 # GithubPractice
-Git and GitHub practice for myself
-//command used
+Git and GitHub practice for myself <br>
+//command used 
 git clone [project-url]
 git add . //add all file
 git add [file name] //add specific file
